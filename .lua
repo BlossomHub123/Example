@@ -1,4 +1,4 @@
-Webhook = "Your Webhook Here" -- Put nothing in between the "" if you dont wanna use one
+Webhook = "Your Webhook Here" -- Put nothing in between the "" if you dont wanna use it
 
 Config = {
     ["Pet"] = {
